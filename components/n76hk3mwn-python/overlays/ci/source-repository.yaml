@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: n76hk3mwn-python-repository
+spec:
+  url: https://github.com/sjm-rhtap/n76hk3mwn-python
